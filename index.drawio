@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="m1nABONmOthGR2Gnk71k" name="Page-1">
+        <mxGraphModel dx="1094" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;r a c e c a r&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="50" width="260" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=48;rotation=-90;" vertex="1" parent="1">
+                    <mxGeometry x="235" y="140" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=48;rotation=-90;" vertex="1" parent="1">
+                    <mxGeometry x="315" y="140" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="i = 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=48;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="140" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="j = 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=48;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="140" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="p o o p" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=48;" vertex="1" parent="1">
+                    <mxGeometry x="225" y="340" width="170" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="e v a l u a t e" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=48;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="390" width="300" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&quot;racecar&quot;.length = 7&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=48;" vertex="1" parent="1">
+                    <mxGeometry x="195" width="230" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&quot;racecar&quot;.length - i - 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+                    <mxGeometry x="185" y="220" width="250" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
